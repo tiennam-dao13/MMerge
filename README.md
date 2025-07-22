@@ -1,27 +1,30 @@
-Phần mềm này có sử dụng FFmpeg – một phần mềm mã nguồn mở mạnh mẽ cho xử lý video và âm thanh.
+## Ghi công – Attribution
 
-FFmpeg được phân phối theo giấy phép GPLv3 (https://www.gnu.org/licenses/gpl-3.0.html)
+Ứng dụng này có sử dụng các thành phần mã nguồn mở sau:
 
-Trang chủ FFmpeg: https://ffmpeg.org
+**FFmpeg** – Một công cụ dòng lệnh mạnh mẽ để xử lý video và audio, được cấp phép theo [GNU General Public License (GPL) phiên bản 3](https://www.gnu.org/licenses/gpl-3.0.html).  
+Trang chủ: https://ffmpeg.org  
+Mã nguồn: https://github.com/FFmpeg/FFmpeg
 
-Bản phân phối này bao gồm các thành phần:
-- ffmpeg.exe
-- ffprobe.exe
-- ffplay.exe
+Bản phân phối này bao gồm các tệp:
+- `ffmpeg.exe`
+- `ffprobe.exe`
+- `ffplay.exe`  
+Các tệp này được đóng gói lại nhưng **không bị chỉnh sửa**, và tuân thủ giấy phép gốc từ dự án FFmpeg.
 
-Các tệp này được đóng gói lại nhưng không bị chỉnh sửa và tuân thủ nguyên gốc từ FFmpeg.
+Chúng tôi xin ghi nhận và cảm ơn các tác giả của những dự án mã nguồn mở trên vì đã đóng góp vào cộng đồng phần mềm.
 
 ---
+This application includes the following open-source components:
 
-This software uses FFmpeg – a powerful open-source multimedia framework for video and audio processing.
+FFmpeg – A powerful command-line tool for processing video and audio, licensed under the GNU General Public License (GPL) version 3.
+Website: https://ffmpeg.org
+Source code: https://github.com/FFmpeg/FFmpeg
 
-FFmpeg is licensed under the GNU General Public License version 3 (GPLv3): https://www.gnu.org/licenses/gpl-3.0.html
+This distribution includes the following files:
+- `ffmpeg.exe`
+- `ffprobe.exe`
+- `ffplay.exe`
+These files are redistributed without modification and remain in compliance with the original FFmpeg license.
 
-FFmpeg homepage: https://ffmpeg.org
-
-This distribution includes the following binaries:
-- ffmpeg.exe  
-- ffprobe.exe  
-- ffplay.exe  
-
-These binaries are redistributed as-is without modification and in compliance with FFmpeg’s licensing terms.
+We gratefully acknowledge and thank the authors of the open-source projects above for their contributions to the software community.
