@@ -18,7 +18,7 @@ Chúng tôi xin ghi nhận và cảm ơn các tác giả của những dự án 
 ---
 This application includes the following open-source components:
 
-FFmpeg – A powerful command-line tool for processing video and audio, licensed under the [GNU General Public License (GPL) phiên bản 3](https://www.gnu.org/licenses/gpl-3.0.html). 
+FFmpeg – A powerful command-line tool for processing video and audio, licensed under the [GNU General Public License (GPL) version 3](https://www.gnu.org/licenses/gpl-3.0.html). 
 Website: https://ffmpeg.org  
 Source code: https://github.com/FFmpeg/FFmpeg
 
