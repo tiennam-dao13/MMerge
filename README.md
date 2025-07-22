@@ -34,7 +34,7 @@ This application includes the following open-source components:
 
  These files are redistributed without modification and remain in compliance with the original FFmpeg license.
 
-- **yt-dlp**: A command-line tool for downloading video and audio from various websites, licensed under the Unlicense.
+- **yt-dlp**: A command-line tool for downloading video and audio from various websites, licensed under the Unlicense.  
   Project page: https://github.com/yt-dlp/yt-dlp
 
 We gratefully acknowledge and thank the authors of the open-source projects above for their contributions to the software community.
