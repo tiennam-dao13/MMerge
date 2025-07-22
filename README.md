@@ -9,10 +9,12 @@ Mã nguồn: https://github.com/FFmpeg/FFmpeg
 Bản phân phối này bao gồm các tệp:
 - `ffmpeg.exe`
 - `ffprobe.exe`
-- `ffplay.exe`\n
+- `ffplay.exe`
+
 Các tệp này được đóng gói lại nhưng **không bị chỉnh sửa**, và tuân thủ giấy phép gốc từ dự án FFmpeg.
 
 Chúng tôi xin ghi nhận và cảm ơn các tác giả của những dự án mã nguồn mở trên vì đã đóng góp vào cộng đồng phần mềm.
+
 
 ---
 This application includes the following open-source components:
@@ -24,7 +26,9 @@ Source code: https://github.com/FFmpeg/FFmpeg
 This distribution includes the following files:
 - `ffmpeg.exe`
 - `ffprobe.exe`
-- `ffplay.exe`\n
+- `ffplay.exe`
+
+
 These files are redistributed without modification and remain in compliance with the original FFmpeg license.
 
 We gratefully acknowledge and thank the authors of the open-source projects above for their contributions to the software community.
